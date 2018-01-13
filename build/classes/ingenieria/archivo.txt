@@ -1,0 +1,7 @@
+cedula:1122
+id:333
+nombre:JOSE
+apellido:Ramos
+fecha:55
+ultimaCompra:44
+usuario
